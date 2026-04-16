@@ -2,13 +2,17 @@
 
 ## 📌 Overview
 
-This project analyzes sales data for Maven Toys using Power BI to uncover key business insights and trends.
+This project provides an end-to-end sales analysis using Power BI to uncover key insights and support data-driven decision-making.
 
-## 🔧 Tools Used
+## 🔧 Tools & Technologies
 
 * Power BI
 * Power Query
 * DAX
+
+## 📷 Dashboard Preview
+
+![Dashboard](images/dashboard.png)
 
 ## 📈 Key Insights
 
@@ -16,10 +20,17 @@ This project analyzes sales data for Maven Toys using Power BI to uncover key bu
 * Analyzed sales trends over time
 * Compared performance across different locations
 
-## 📷 Dashboard Preview
+## ⚡ Data Work
 
-![Dashboard](images/dashboard.png)
+* Cleaned and transformed raw data using Power Query
+* Built a data model with relationships
+* Created DAX measures for KPIs and analysis
+
+## ⬇️ Download Project
+
+[Download Power BI File](./maven_toys.pbix)
 
 ## 🚀 Business Value
 
-This dashboard helps stakeholders understand sales performance and make data-driven decisions.
+This dashboard helps stakeholders monitor performance, identify opportunities, and make better business decisions.
+
