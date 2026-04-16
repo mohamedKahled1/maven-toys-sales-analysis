@@ -50,7 +50,7 @@ This project presents an end-to-end sales analysis using Power BI, including dat
 
 ## ⬇️ Download Project
 
-Download Power BI File
+[Download Power BI File](./maven_toys.pbix)
 
 ---
 
